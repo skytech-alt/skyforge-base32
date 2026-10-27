@@ -1,0 +1,11 @@
+пакет {
+    имя = "skyforge-base32"
+    версия = "0.1.0"
+    автор = "SkyPackages"
+    описание = "Кодирование и декодирование Base32."
+    репозиторий = "github.com/skytech-alt/skyforge-base32"
+    точка_входа = "code/main.skf"
+    теги = ["utils"]
+    лицензия = "MIT"
+    зависимости = []
+}
